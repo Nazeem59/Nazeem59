@@ -1,4 +1,4 @@
-## Hi, I'm Muhamad Nazeem Al Ghozali 馃憢
+## Hi, I'm Muhamad Nazeem Al Ghozali 👋
 
 **Java Backend Developer** building enterprise applications and REST APIs.
 
@@ -11,12 +11,12 @@ I work as a Java developer at **Bizmann System (S) Pte Ltd**, building and maint
 
 ### Featured projects
 
-#### [Ticket Workflow Engine](https://github.com/Nazeem59/ticket-workflow) 路 [Live API](https://ticket-workflow.onrender.com/swagger-ui.html)
+#### [Ticket Workflow Engine](https://github.com/Nazeem59/ticket-workflow) · [Live API](https://ticket-workflow.onrender.com/swagger-ui.html)
 Ticket management API built around a **configurable, database-driven workflow engine**. States, transitions, allowed roles, required data, and SLAs are stored as data and validated as a graph, so a new business process is added by posting JSON instead of changing code. Includes role and ownership rules, optimistic locking, a full audit trail, and Flyway migrations, with integration tests that need no external database.
 
 `Java 21` `Spring Boot 4` `Spring Security` `JWT` `Flyway` `JUnit` `Docker` `GitHub Actions`
 
-#### [Enterprise Invoice Management](https://github.com/Nazeem59/invoice-management) 路 [Live API](https://invoice-management-1qbd.onrender.com/swagger-ui/index.html)
+#### [Enterprise Invoice Management](https://github.com/Nazeem59/invoice-management) · [Live API](https://invoice-management-1qbd.onrender.com/swagger-ui/index.html)
 Invoice processing API with a **multi-approver workflow**: suppliers, invoices with server-side tax and total calculation, role-based access, audit logging of every change, and financial dashboard reports.
 
 `Java 21` `Spring Boot 4` `Spring Data JPA` `JWT` `MySQL` `Docker` `GitHub Actions`
@@ -27,11 +27,11 @@ Invoice processing API with a **multi-approver workflow**: suppliers, invoices w
 
 ### Tech stack
 
-- **Backend:** Java 路 Spring Boot 路 Spring Security 路 Spring Data JPA 路 Java Servlets & JSP 路 REST API design 路 JWT
-- **Data:** MySQL 路 SQL Server 路 Flyway 路 relational database design
-- **Testing:** JUnit 5 路 Mockito 路 AssertJ 路 MockMvc 路 H2
-- **Delivery:** Git 路 Maven 路 Docker 路 GitHub Actions 路 Render 路 TiDB Cloud
-- **Frontend:** HTML 路 CSS 路 JavaScript 路 jQuery 路 Bootstrap 路 DataTables
+- **Backend:** Java · Spring Boot · Spring Security · Spring Data JPA · Java Servlets & JSP · REST API design · JWT
+- **Data:** MySQL · SQL Server · Flyway · relational database design
+- **Testing:** JUnit 5 · Mockito · AssertJ · MockMvc · H2
+- **Delivery:** Git · Maven · Docker · GitHub Actions · Render · TiDB Cloud
+- **Frontend:** HTML · CSS · JavaScript · jQuery · Bootstrap · DataTables
 
 ---
 
